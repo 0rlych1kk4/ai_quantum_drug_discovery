@@ -1,0 +1,10 @@
+[package]
+name = "ai_quantum_drug_discovery"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = "0.15"
+rand = "0.8"
+qiskit_rs = "0.1"  # Quantum Computing Library
+
